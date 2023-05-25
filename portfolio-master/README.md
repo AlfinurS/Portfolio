@@ -12,7 +12,7 @@
 Vue, Vuex, Axios, JavaScript, Git, Webpack.
 
 
-2. <a href="http://code.yolka.io/ru" target="_blank"></a>code.yolka</br>
+2. <a href="http://code.yolka.io/ru/" target="_blank"></a>code.yolka</br>
 Сайт для сотрудников склада, генерирует штрих коды. Работает в скаченном виде даже там, где нет доступа в интернет.
 – доработала адаптив сайта,
 – заменила селект выбора языка,
